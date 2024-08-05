@@ -100,3 +100,5 @@ elif Weekname == "Saturday":
     print("7")
 else:
     print("Invalid input")
+
+#For testing purpose

@@ -41,3 +41,5 @@ print(type(a))
 del a
 print(a)
 
+print("I know typing to some extent")
+

@@ -29,3 +29,4 @@ print(10.5 + 12.0) #This will sum up numbers
 print ('Welcome ' + 'to Python') # This will concatenate
 
 print('10'+'Welcome')
+print("Execution completed")
