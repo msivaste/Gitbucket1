@@ -10,7 +10,7 @@
 # 7. Verify title of the page: OrangeHRM
 # 8. Close browser
 
-print("This is my first Python Program")
+print("Python program practice with Git")
 
 a = 10
 b = 20
