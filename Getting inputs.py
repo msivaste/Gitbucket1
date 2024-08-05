@@ -17,5 +17,5 @@
 num1 = input("Enter num1: ")
 num2 = input("Enter num2: ")
 print(float(num1) + float(num2))
-print(type(num1))
-print(type(num2))
+print("Datatype of num1:",type(num1))
+print("Datatype of num2:",type(num2))
